@@ -2,7 +2,7 @@
 * [General info](#general-info) 
 * [Screenshots](#screenshots)
 ## General info
-Project for a competition Hack Heroes 2020 \
+Project for a competition "Hack Heroes 2020" \
 Front-end: [@Hansik33](https://github.com/Hansik33) \
 Back-end: &nbsp;[@Sledziux](https://github.com/Sledziux) 
 ## Screenshots
