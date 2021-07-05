@@ -3,7 +3,7 @@
 * [Screenshots](#screenshots)
 ## General info
 Project for a competition "Hack Heroes 2020" \
-Add, edit and manage your patients. All in one place. \
+Make and edit a patients' list, then analyze data by criteria. All in one place.  \
 Front-end: [@Hansik33](https://github.com/Hansik33) \
 Back-end: &nbsp;[@Sledziux](https://github.com/Sledziux) 
 ## Screenshots
